@@ -2,7 +2,7 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://goitacademy.github.io/parcel-project-template",
+  "homepage": "ttps://github.com/Exx1piee/goit-js-hw-08",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /goit-js-hw-08/"
@@ -15,7 +15,7 @@
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "git+https://jurekzela.github.io/goit-js-hw-08/issues"
+    "url": "git+https://github.com/Exx1piee/goit-js-hw-08"
   },
   "dependencies": {
     "@vimeo/player": "^2.20.1",
